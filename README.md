@@ -1,4 +1,13 @@
-### Hi there 👋
+### Que tal 👋
+Soy Carlos Encalada pero también me conocen como SK, KarlosRocker, Charly (no tengo personalidad múltiple, solo varias facetas)
+
+🔭 Actualmente busco actualizar mi conocimiento en temas de desarrollo, este año la mira está en Vue y PHP
+
+🌱 Tambíen planeo aprender Docker y Traefik
+
+🤔 Seguir profundizando en Jamstack
+
+😄 Pero no dejar de lado GeneXus
 
 <!--
 **skcode7/skcode7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
