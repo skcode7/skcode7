@@ -9,6 +9,19 @@ Soy Carlos Encalada pero también me conocen como SK, KarlosRocker, Charly (no t
 
 😄 Pero no dejar de lado GeneXus
 
+### Now in English 🧐
+Carlos, Charly, SK, KarlosRocker... call me what you will. I'm SysAdmin and LowCode Developer
+
+🔭 I am currently looking to update my knowledge in development topics, this year the focus is on Vue and PHP.
+
+🌱 Also plan to learn Docker and Traefik.
+
+🤔 Going deep in Jamstack
+
+😄 But don't leave GeneXus aside
+
+⚡ I'm podcast addict, don't belive me? Listen at my podcast: https://metacast.karlosencalada.dev
+
 <!--
 **skcode7/skcode7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
