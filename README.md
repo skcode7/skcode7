@@ -1,24 +1,24 @@
 ### Que tal 👋
 Soy Carlos Encalada pero también me conocen como SK, KarlosRocker, Charly (no tengo personalidad múltiple, solo varias facetas)
 
-🔭 Actualmente busco actualizar mi conocimiento en temas de desarrollo, este año la mira está en Vue y PHP
+🔭 Para este año, quiero hacer más grande la **T** (https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/)
 
-🌱 Tambíen planeo aprender Docker y Traefik
+🌱 Seguir profundizando en Docker, Traefik y otros proxys
 
-🤔 Seguir profundizando en Jamstack
+🤔 Hacer más webs con Jamstack y CMSs
 
-😄 Pero no dejar de lado GeneXus
+😄 Y por último, pero no menos importante, explorar más funciones de GeneXus
 
 ### Now in English 🧐
 Carlos, Charly, SK, KarlosRocker... call me what you will. I'm SysAdmin and LowCode Developer
 
-🔭 I am currently looking to update my knowledge in development topics, this year the focus is on Vue and PHP.
+🔭 This year I want to make the **T** bigger 
 
-🌱 Also plan to learn Docker and Traefik.
+🌱 Going deep in Docker, Traefik and others proxys.
 
-🤔 Going deep in Jamstack
+🤔 Make more websites with Jamstack and CMSs
 
-😄 But don't leave GeneXus aside
+😄 And last but not least, explore more GeneXus functions
 
 ⚡ I'm podcast addict, don't belive me? Listen at my podcast: https://metacast.karlosencalada.dev
 
