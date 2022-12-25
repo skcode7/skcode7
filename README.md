@@ -1,26 +1,24 @@
 ### Que tal 👋
 Soy Carlos Encalada pero también me conocen como SK, KarlosRocker, Charly (no tengo personalidad múltiple, solo varias facetas)
 
-🔭 Para este año, quiero hacer más grande la **T** (https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/)
+😎 Seguir profundizando en GeneXus para aprovechar al máximo todo su potencial.  
 
-🌱 Seguir profundizando en Docker, Traefik y otros proxys
+💻 Con el camnino más claro, el objetivo es crear nuevos productos este año (un ejemplo).  
 
-🤔 Hacer más webs con Jamstack y CMSs
+🤩 Mi apuesta por el Jamstack sigue y cada vez voy descubriendo nuevos elementos.  
 
-😄 Y por último, pero no menos importante, explorar más funciones de GeneXus
+😄 Continuar aprendiendo nuevos lenguajes de programación.  
 
 ### Now in English 🧐
-Carlos, Charly, SK, KarlosRocker... call me what you will. I'm SysAdmin and LowCode Developer
+Carlos, Charly, SK, KarlosRocker... call me what you will. I'm a GeneXus Specialist.
 
-🔭 This year I want to make the **T** bigger 
+😎 Keep going deeper in GeneXus to take full advantage of its potential.  
 
-🌱 Going deep in Docker, Traefik and others proxys.
+💻 With a clearer path, the goal is to create new products this year (an example).  
 
-🤔 Make more websites with Jamstack and CMSs
+🤩 My bet on Jamstack continues and I'm discovering new elements every time.  
 
-😄 And last but not least, explore more GeneXus functions
-
-⚡ I'm podcast addict, don't belive me? Listen at my podcast: https://metacast.karlosencalada.dev
+😄 Continue learning new programming languages.  
 
 ***
 
